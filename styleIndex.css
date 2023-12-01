@@ -1,0 +1,47 @@
+.grid{
+    /* background-color: #F8B195; */
+    height: 700px;
+    width: 600px;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 50%;
+    left: 50%;
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+    box-shadow: 0 0 40px rgba(8,7,16,0.6);
+    padding: 20px 35px;
+    justify-content: center;
+    align-content: center;
+    overflow: scroll;
+}
+
+.heading{
+    font-size: 14px;
+}
+
+.NoBold{
+    font-size: 18px;
+}
+
+button{
+    margin-top: 20px;
+    margin-bottom: 5px;
+    height: 30px;
+    width: 20%;
+    /* background-color: #F67280; */
+    /* color: aliceblue; */
+    font-size: 14px;
+    border-radius: 7px;
+    border-width: 1.75px;
+}
+
+.field{
+    text-indent: 2px;
+    /* color: aliceblue; */
+}
+
+.kataMutiara{
+    font-size: 16.2px;
+    text-align: center;
+}
+/* overflow scroll */

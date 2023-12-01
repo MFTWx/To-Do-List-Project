@@ -1,0 +1,60 @@
+body{
+    background-color: white ;
+}
+
+.grid{
+    /* background-color: #F8B195; */
+    height: 420px;
+    width: 400px;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 50%;
+    left: 50%;
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+    box-shadow: 0 0 40px rgba(8,7,16,0.6);
+    padding: 50px 35px;
+    justify-content: center;
+    align-content: center;
+}
+
+.title{
+    font-weight: bold;
+}
+
+input{
+    display: block;
+    height: 36px;
+    width: 100%;
+    background-color: rgba(255,255,255,0.07);
+    border-radius: 7px;
+    padding: 0px;
+    margin-top: 8px;
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.field{
+    font-size: 16px;
+}
+
+button{
+    height: 40px;
+    width: 100%;
+    /* background-color: #F67280; */
+    /* color: aliceblue; */
+    font-size: 18px;
+    font-weight: 500;
+    border-radius: 7px;
+}
+
+.registration{
+    font-size: 16px;
+    text-align: center;
+}
+
+.tbsearchbar{
+    text-indent: 10px;
+    /* color: aliceblue; */
+}
+
